@@ -1,4 +1,4 @@
-!.gitignore
-!test.js
-!test.py
-!workout.js
+# !.gitignore
+test.js
+test.py
+workout.js
