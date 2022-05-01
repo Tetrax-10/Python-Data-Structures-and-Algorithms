@@ -1,6 +1,6 @@
-""" This Code is Slightly Modified (more advanced) than the javascript code to fix some bugs that happens in
- original code. eg: without inserting any values if you call lookup it causes error.
- here it returns False."""
+""" This Code is Slightly Modified (more advanced) than the javascript code to fix some
+ bugs that happens in original code. eg: without inserting any values if you call lookup
+ it causes error. here it returns False."""
 
 
 class Node:
